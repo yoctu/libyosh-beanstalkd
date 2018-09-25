@@ -1,0 +1,12 @@
+Source: libyosh-beanstalkd
+Section: utils
+Maintainer: Dzove855 <dzove855@yoctu.com>
+Build-Depends: debhelper
+Standards-Version: 0.0.1
+
+Package: libyosh-beanstalkd
+Architecture: all
+Maintainer: Dzogovic Vehbo <dzove855@yoctu.com>
+Priority: optional
+Depends: yoctu-scripts, yosh, beanstalkd
+Description: Yosh Lib For Beanstalk based on beanstalk bash client
